@@ -4,7 +4,7 @@ A node.js implementation of the Selenium WebDriver specific to BHG
 
 ## Prerequisites
 
-- Be sure to get set up with both [ChromeDriver]() and the [stand-alone Selenium server]()
+- Be sure to get set up with both [ChromeDriver](https://code.google.com/p/chromedriver/downloads/list) and the [stand-alone Selenium server](https://code.google.com/p/selenium/wiki/WebDriverJs#Using_the_Stand-alone_Selenium_Server)
 - `npm install`
 - update `index.js:1` with the location of your Selenium Server (.jar) file 
 
